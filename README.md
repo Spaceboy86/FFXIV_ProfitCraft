@@ -1,6 +1,8 @@
 # FFXIV Profit Craft
 What started as a small idea turned into a rabbit holes, as they often do.  
 
+https://github.com/ffxiv-teamcraft/ffxiv-teamcraft/blob/staging/libs/data/src/lib/json/recipes-ingredient-lookup.json
+
 Currently it will:  
 - Use the XIVAPI to search for the correct sheet for all item recipes that meet the criteria
 - Check the receipeID's against TeamCraft's recipes_ingredient_lookup json to retrieve the ingredients itemID, amount required, amount produced
