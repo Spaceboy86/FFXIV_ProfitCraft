@@ -348,7 +348,7 @@ def display_final_output(data_storage):
         print(f"Total Ingredient Price: {item['total_ingredient_cost']} - Difference Markup %: {item['markup']}%")
         print("Ingredients:")
         for ingredient in item["ingredients"]:
-            print(f"  - {ingredient['name']} (ID: {ingredient['id']}) - Price: {ingredient['avg_price']}")
+            print(f"  - {ingredient['name']} (ID: {ingredient['id']}) - Price: {ingredient['avg_price']} - Amount: {ingredient['amount']} ")
             if "subingredients" in ingredient:
                 for subingredient in ingredient["subingredients"]:
                     print(
