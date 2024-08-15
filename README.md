@@ -1,6 +1,6 @@
 # FFXIV Profit Craft
 ## Overview
-What started as a small idea turned into a rabbit holes, as they often do.  
+What started as a small idea turned into a rabbit hole, as they often do.  
 FFXIV Profit Craft is a tool designed to assist players of Final Fantasy XIV in optimizing their crafting strategies for profit. By leveraging data from XIVAPI and Universalis, this tool helps users determine the most profitable items to craft by comparing market prices and ingredient costs.  
 
 ## Features
