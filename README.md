@@ -99,6 +99,6 @@ You can find the original file [here](https://github.com/ffxiv-teamcraft/ffxiv-t
 ## To-Do
 - [ ] Add support for more data centers.  
       - Select Data centre, Select world from returned data centre. 
-- [ ] Add support for Job selection for item search.  
-      - Depenent on selected Job, can "," Jobs from return list. "cul, alc, arm"  
+- [ ] Add support for multiple Job selection for item search.  
+      - Depenent on selected Job, can "," separate Jobs from return list. "cul, alc, arm"  
       - results will specify crafting method 
