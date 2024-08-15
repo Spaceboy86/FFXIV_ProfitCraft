@@ -79,12 +79,6 @@ The script is currently configured to fetch data for the materia data centre:
 {'Ravana': 21, 'Bismarck': 22, 'Sephirot': 86, 'Sophia': 87, 'Zurvan': 88}  
 This can be edited for other worlds, but there will be support for selecting different data centres and world selection. 
 
-### Contributing
-Feel free to submit pull requests or report issues on GitHub. Contributions are welcome!
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 Thanks to XIVAPI and Universalis for providing the APIs that power this tool.  
 Special thanks to the developers of FFXIV TeamCraft for their recipes-ingredient-lookup.json data.  
@@ -102,3 +96,6 @@ You can find the original file [here](https://github.com/ffxiv-teamcraft/ffxiv-t
 - [ ] Add support for multiple Job selection for item search.  
       - Depenent on selected Job, can "," separate Jobs from return list. "cul, alc, arm"  
       - results will specify crafting method 
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
